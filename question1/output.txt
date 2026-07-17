@@ -1,0 +1,6 @@
+root         1  2.7  0.0   1804  1184 ?        Sl   13:14   0:00 /init
+root         7  0.0  0.0   1824    84 ?        Ss   13:14   0:00 /init
+root         8  0.0  0.0   1824   100 ?        S    13:14   0:00 /init
+root         9  2.8  0.0   2544  1000 pts/0    Ss+  13:14   0:00 ./question1/pipe_pipeline
+root        24  0.0  0.0   8276  4104 pts/0    R+   13:14   0:00 ps aux
+root        25  0.0  0.0   4084  2060 pts/0    S+   13:14   0:00 grep root
