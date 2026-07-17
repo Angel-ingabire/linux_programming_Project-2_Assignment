@@ -1,0 +1,5 @@
+..\question 2\large_copy.c: 0
+..\question 2\trace_summary.txt: 0
+..\question 2\large_copy: 0
+..\question 2\large_copy.c: 0
+..\question 2\large_copy: 0
